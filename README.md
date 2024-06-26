@@ -45,7 +45,8 @@
 
 
 
-## Contributor
+##thanks to myself 1.(joel kang'oma)
+2.mdUdU oK
+3.Briany
 
-
-[*`Thanks to Ibrahim Adams`*](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
+(https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
