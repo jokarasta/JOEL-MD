@@ -3,11 +3,11 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/798e6256fa919a62243a6.jpg"> 
     </p>
-<h1 align="center">   JOEL MD-MULTI-DEVICE
+<h1 align="center">   JOEL BUG BOT-MULTI-DEVICE
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By Mr Joel To Do Everything That Is Possible On WhatsApp
+<p align="center">A Whatsapp Bot Create By  Joel kang'oma To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
@@ -33,20 +33,19 @@
 # DEPLOY SETUP
 
 
-## 1 SCAN PAIRING CODE + QR IN THE APP
+## 1 SCAN PAIRING CODE + QR IN JOEL APP
 
 
 [*`JOEL MD APP`*](https://joel-app-f8b96ff3c638.herokuapp.com/)
 
 
-## 2 *`⨷ Now Deploy`*
+## NOW DEPLOY JOEL BUG BOT
 
-**[*`TAP HERE TO DEPLOY ON HEROKU`*](https://dashboard.heroku.com/new?template=https://github.com/jokathanjoka/JOEL-MD/tree/main)**
+**[*`TAP HERE TO DEPLOY JOEL BUG BOT ON HEROKU`*](https://dashboard.heroku.com/new?template=https://github.com/jokathanjoka/JOEL-MD/tree/main)**
 
 
+## thanks to myself 1.(joel kang'oma)
+## 2.mdUdU oK
+## 3.Briany
 
-##thanks to myself 1.(joel kang'oma)
-2.mdUdU oK
-3.Briany
-
-(https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
+## chanel link is here (https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
