@@ -27,7 +27,7 @@
 
 
 
-<a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=blue"/></a>
 
 
 # DEPLOY SETUP
