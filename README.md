@@ -48,4 +48,4 @@
 ## 2.mdUdU oK
 ## 3.Briany
 
-## chanel link is here (https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
+## chanel link is here (https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M)
