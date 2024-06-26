@@ -23,7 +23,7 @@
 
 
   
-# JOEL MD
+# JOEL BUG BOT 
 
 
 
@@ -48,4 +48,5 @@
 ## 2.mdUdU oK
 ## 3.Briany
 
-## chanel link is here (https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M)
+## chanel link is here https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
+# any problem https://wa.me/255714595078
