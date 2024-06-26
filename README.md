@@ -7,7 +7,7 @@
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By Mr baraka To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Create By Mr Joel To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
@@ -41,8 +41,11 @@
 
 ## 2 *`⨷ Now Deploy`*
 
-**[*`TAP HERE TO DEPLOY ON HEROKU`*](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)**
+**[*`TAP HERE TO DEPLOY ON HEROKU`*](https://dashboard.heroku.com/new?template=https://github.com/jokathanjoka/JOEL-MD/tree/main)**
 
+
+
+## Contributor
 
 
 [*`Thanks to Ibrahim Adams`*](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
