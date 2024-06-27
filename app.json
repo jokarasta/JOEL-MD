@@ -1,7 +1,7 @@
 {
   "name": "JOEL MD",
   "description": "Hi there, I am Joel Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255762190568,255679513639 +254710772666",
-  "logo": "https://telegra.ph/file/798e6256fa919a62243a6.jpg",
+  "logo": "https://telegra.ph/file/798e6256fa919a62243a6.jpg"
   "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr",
@@ -42,7 +42,7 @@
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responding (After deployement!)",
       "required" :true,    
-      "value": "true"
+      "value": "false"
     }, 
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
@@ -135,13 +135,13 @@
       "required" :true,
       "value": "private"
     },
-    "PACK_NAME": {
+    "PACK_NAME": {kang'oma 
       "description": "Put Sticker Pack_Name.",
-      "value": "Mr Joel",
+      "value": "Joel",
       "required": true 
     },
-    "PACK_AUTHER": {
-      "description": "Put Sticker Author_Name.",
+    "PACK_AUTHER": {kang'oma 
+      "description": "Put Sticker Author_Name.", joel 
       "value": "Whatsappbot",
       "required": true 
   },
