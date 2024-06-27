@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Bot Owner Name",    
-      "value": "Mr Joel",
+      "value": "joel tech",
       "required" :true
     },   
     
@@ -135,13 +135,13 @@
       "required" :true,
       "value": "private"
     },
-    "PACK_NAME": {kang'oma 
+    "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
       "value": "Joel",
       "required": true 
     },
-    "PACK_AUTHER": {kang'oma 
-      "description": "Put Sticker Author_Name.", joel 
+    "PACK_AUTHER": {nk
+      "description": "Put Sticker Author_Name.",
       "value": "Whatsappbot",
       "required": true 
   },
