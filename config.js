@@ -24,9 +24,9 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 
 
-global.devs = "254710772666,255767570963,255714595078,255781144539,255768886545" // Developer Contact
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254710772666,255767570963,255714595078,255781144539,255768886545";
+global.devs = "255767570963,255714595078,255781144539,255768886545" // Developer Contact
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "255714595078";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "255767570963,255714595078,255781144539,255768886545";
 
 
 
@@ -37,7 +37,7 @@ global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not resp
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable WELCOME 
 
-global.warncount = process.env.WARN_COUNT || 3
+global.warncount = process.env.WARN_COUNT || 5
 global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
@@ -49,14 +49,14 @@ global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
 global.readmessage = process.env.READ_MESSAGE || "false"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254710772666";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM ||"255714595078";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
-global.read_status = process.env.AUTO_READ_STATUS || "false"
+global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "254710772666,255767570963,255714595078,255781144539,255768886545";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254710772666,255767570963,255714595078,255781144539,255768886545";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "255767570963,255714595078,255781144539,255768886545";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "255767570963,255714595078,255781144539,255768886545";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M";
@@ -72,12 +72,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.1",
-  caption : process.env.CAPTION || "JOEL MD✅" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "powered by joel kang'oma" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Mr Joel",
-  packname: process.env.PACK_NAME || "🐯",
+  author : process.env.PACK_AUTHER|| "joel",
+  packname: process.env.PACK_NAME || "wa bot",
   botname : process.env.BOT_NAME  || "JOEL MD",
-  ownername:process.env.OWNER_NAME|| "Mr Joel",
+  ownername:process.env.OWNER_NAME|| "joel tech",
 
 
   errorChat : process.env.ERROR_CHAT || "",
